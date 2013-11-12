@@ -6,7 +6,8 @@ public class CargoShip extends Ship
 {
    //Declare Fields
    private int capacity;
-   
+   private int hello;
+   private int goodbye;
    /**
       Constructors
    */ 
